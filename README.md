@@ -21,8 +21,6 @@ I’m a passionate developer who loves building modern web applications, learnin
 Here are some ideas to get you started:
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philip%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipmagar/)
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
