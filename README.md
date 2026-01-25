@@ -17,7 +17,6 @@ I’m a passionate developer who loves building modern web applications, learnin
 - 🔭 I’m currently working on **Full-Stack Web Projects**
 - 🌱 Learning **Advanced React, Node.js, System Design**
 - 💬 Ask me about **JavaScript, React, Node.js, MySQL**
-- ⚡ Fun fact: I enjoy learning by building real projects
 Here are some ideas to get you started:
 ## 🤝 Connect with Me
 
