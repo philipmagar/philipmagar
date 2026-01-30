@@ -8,7 +8,7 @@
     alt="Typing SVG"
   />
 </p>
-I’m a passionate developer who loves building modern web applications, learning new technologies, and solving real-world problems through code.
+I’m a passionate **Full-Stack Developer** who loves building modern web applications, learning new technologies, and solving real-world problems through code. I focus on creating scalable, performant, and user-friendly applications using the latest web technologies
 
 ---
 
