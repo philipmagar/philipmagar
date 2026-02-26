@@ -17,9 +17,14 @@ I’m a passionate **Full-Stack Developer** who loves building modern web applic
 - 🔭 I’m currently working on **Full-Stack Web Projects**
 - 🌱 Learning **Advanced React, Node.js, System Design**
 - 💬 Ask me about **JavaScript, React, Node.js, MySQL**
-Here are some ideas to get you started:
+  
 ## 🤝 Connect with Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/philip-ma-gar
+- 📝 GitHub: https://github.com/philipmagar  
+- 📧 Email: philipmagar111@gmail.com
+- portfolio: https://www.philipmagar.com.np
+  
 ## 🛠️ Languages & Tools
 
 <p align="left">
